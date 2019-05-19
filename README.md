@@ -1,4 +1,4 @@
-# Skin_cancer_detection
+# Skin_cancer_Classification
 This the HAM10000 ("Human Against Machine with 10000 training images") dataset.t has 7 different classes of skin cancer
 1. Melanocytic nevi 
 2. Melanoma 
